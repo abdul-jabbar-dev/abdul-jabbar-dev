@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **abdullah1532002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18Zegu6aCHvo1Cp9G5olgH63qElKqgo1D/view](https://drive.google.com/file/d/18Zegu6aCHvo1Cp9G5olgH63qElKqgo1D/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10BYdNG36oRXNG0aTIDytlsGTb_q0eH7b/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
