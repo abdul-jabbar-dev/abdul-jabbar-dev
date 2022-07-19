@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abduljabbar15" alt="abduljabbar15" /></a> </p>
 
-- 🔭 I’m currently working on [DCOM](https://d-com-aj.web.app/)
+- 🔭 I’m currently working on C++
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **DS**
 
 - 💬 Ask me about **react**
 
