@@ -2,25 +2,28 @@
 <h1 style="color:red" align="center">Hi, I'm Abdul jabbar</h1>
 <h3 align="center">A passionate front-end developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abduljabbar15&label=Profile%20views&color=0e75b6&style=flat" alt="abduljabbar15" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=
+abdul-jabbar-dev&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-jabbar-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abduljabbar15" alt="abduljabbar15" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=
+abdul-jabbar-dev" alt="
+abdul-jabbar-dev" /></a> </p>
 
-- 🔭 I’m currently working on C++
+- 🔭 I’m currently working on next.js
 
-- 🌱 I’m currently learning **DS**
+- 🌱 I’m currently learning **DATABASE**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **next.js**
 
-- 📫 How to reach me **abdullah1532002@gmail.com**
+- 📫 How to reach me **abdul.jabbar.dev@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10BYdNG36oRXNG0aTIDytlsGTb_q0eH7b/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GaQc0N0JLVZcPvcGmabiqhJbIKtwLYPf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.facebook.com/abduljabbar1532/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abduljabbar3200/" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/abduljabbar15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abduljabbar1532002/" height="30" width="40" /></a>
-<a href="https://dev.to/abduljabbar15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abduljabbar15" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/abdul.jabbar.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul.jabbar.dev" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/abdul-jabbar-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-jabbar-dev" height="30" width="40" /></a>
+<a href="https://dev.to/abdul_jabbar_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdul_jabbar_dev" height="30" width="40" /></a>
 
 
 </p>
