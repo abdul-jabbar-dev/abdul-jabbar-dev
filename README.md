@@ -36,7 +36,6 @@
 <div >
 <hr>
   <a><img align="left" src="https://api.daily.dev/devcards/92e5f4ceea0d4be28f3cdac353425ff6.png?r=3ts" width="320" alt="Abdul Jabbar's Dev Card" /></a> 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-jabbar-dev" alt="abdul-jabbar-dev" /></a> </p>
  
 
 </br>
