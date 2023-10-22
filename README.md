@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Jabbar</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3> 
   
-- 🌱 I’m currently learning **Svelt**
+- 🌱 I’m currently learning **Postgresql**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://abduljabbar.xyz/) 
 - 💬 Ask me about **next.js**
