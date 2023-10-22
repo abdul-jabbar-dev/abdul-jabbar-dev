@@ -8,7 +8,7 @@
   
 - 🌱 I’m currently learning **Postgresql**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://abduljabbar.xyz/) 
+- 👨‍💻 All of my projects are available at [Portfolio]([https://abduljabbar.xyz/](https://abduljabbar.netlify.app/)) 
 - 💬 Ask me about **next.js**
 
 - 📫 How to reach me **abdul.jabbar.dev@gmail.com**
