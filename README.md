@@ -5,8 +5,10 @@
 </br>
 <h1 align="center">Hi 👋, I'm Abdul Jabbar</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3> 
-  
+ 
 - 🌱 I’m currently learning **Postgresql**
+ 
+- 💼 And working on [Portfolio]([https://abduljabbar.netlify.app/](https://github.com/abdul-jabbar-dev/roktodaan))
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://abduljabbar.netlify.app/)
 - 💬 Ask me about **next.js**
